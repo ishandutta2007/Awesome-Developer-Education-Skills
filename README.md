@@ -30,79 +30,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global developer and programming education market is estimated at approximately $70B–$75B and projected to expand past $250B by the mid-2030s (~15% CAGR). The sector exhibits a hybrid structure: highly fragmented across individual content creators, niche bootcamps, and open-source tutorials at the entry/consumer level, while moderately concentrated among consolidated enterprise platforms and scaled B2B providers where credentials, deep analytics, and multi-tenant compliance matter.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **Frontend Masters**
-
-  **Advanced frontend development courses from industry experts** . Focuses on JavaScript, React, Node.js, and modern web architecture. **The deep-dive choice** for experienced developers wanting to level up on specific frontend topics rather than start from zero.
-
-
-
-- **Pluralsight**
-
-  Technology skills platform with skill assessments and learning paths. Features **Iris AI assistant** and **skill IQ measurements**. **The enterprise standard** for structured technology upskilling with analytics.
-
-
-
-- **Coursera**
-
-  University-backed AI education with Stanford, deeplearning.ai, and IBM specializations. Features **Professional Certificates**, **Specializations**, and guided projects. **The credential-heavy choice**—certificates carry weight with employers.
-
-
-
-- **Udemy Business**
-
-  Enterprise learning platform with 25,000+ courses. **The breadth choice**—covers technical and business skills, with curated learning paths and analytics.
-
-
-
-- **LinkedIn Learning**
-
-  Professional development and software engineering video courses . Integrated with LinkedIn profiles. **The profile-integrated choice** for professionals building visible skills.
-
-
-
-- **Cloud Academy**
-
-  Cloud and AI training with hands-on labs and certification prep. **The cloud-certification choice** for AWS, Azure, and GCP tracks.
-
-
-
-- **A Cloud Guru**
-
-  Cloud certification training with hands-on labs and sandbox environments. Now part of Pluralsight.
-
-
-
-- **O'Reilly Learning**
-
-  Technical books, videos, and courses platform . **The reference-library choice**—access to O'Reilly's full catalog of technical books alongside video content.
-
-
-
-- **Skillsoft**
-
-  Enterprise learning platform with compliance, leadership, and technology content. **The enterprise-compliance choice** for organizations needing integrated training and certification tracking.
-
-
-
-- **Codecademy Pro**
-
-  Interactive coding platform with browser-based exercises. **The beginner-accessible choice**—practice immediately without setting up a local environment .
-
-
+| Company / Platform | Company Size (Revenue / Valuation) | Pricing (Starting Tier) | Free Tier Limits / Free Trial | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **LinkedIn Learning** | ~$2.1B–$2.5B ARR (Parent Microsoft: ~$3T+ market cap) | $29.99/month (or $19.99/mo billed annually at $239.88/yr) | 30-day free trial; full library access of 25,000+ courses; auto-renews unless cancelled. | Professional development and software engineering video courses integrated directly with LinkedIn profiles. |
+| **Pluralsight** | ~$3.5B valuation (Vista acquisition 2021; ~$400M–$470M ARR) | $29/month (or $299/year Core tech plan) | 10-day free trial; provides individual access to core library; limited offline downloads and cloud sandbox caps. | Technology skills platform with skill assessments, learning paths, Iris AI assistant, and Skill IQ measurements. |
+| **A Cloud Guru** | ~$2B+ valuation (acquired by Pluralsight; ~$100M+ ARR) | $29/month (or $299/year Cloud+ plan) | 10-day free trial; access to core cloud courses; temporary pre-auth hold required; certain advanced sandboxes restricted during trial. | Cloud certification training with hands-on labs and sandbox environments across AWS, Azure, and Google Cloud. |
+| **Coursera** | ~$1.3B market cap (COUR) / ~$1.22B–$1.24B annual revenue | $39/month (or $399/year for Coursera Plus) | Free forever Audit mode on individual courses (video streaming and reading materials only; no graded assignments, programming labs, or completion certificates). | University-backed AI and engineering education with Stanford, deeplearning.ai, and IBM specializations and professional certificates. |
+| **Udemy Business** | ~$680M market cap (UDMY) / ~$780M–$810M annual revenue | $360/user/year ($30/seat/month, Team plan for 2–50 users) | 14-day free trial for Team Plan; access to curated catalog of 25,000+ courses and admin management tools. | Enterprise learning platform with curated technical and business learning paths, custom LMS integrations, and analytics. |
+| **Codecademy Pro** | $525M valuation (acquired by Skillsoft in 2022) | $17.49/month billed annually ($29.99 billed monthly for Plus) | Free forever Basic plan limited to a small selection of introductory courses only; career paths, hands-on portfolio projects, interactive quizzes, and certificates locked. | Interactive coding platform with in-browser code execution for beginner-to-intermediate developers. |
+| **QA / Cloud Academy** | ~$350M–$400M parent revenue (acquired by QA in 2019) | $35/month (or $399/year individual plan) | 7-day free trial; full access to self-paced courses, videos, and quizzes; advanced exam engines and live lab sandboxes may have usage caps. | Cloud and AI training platform with hands-on labs, role-based learning paths, and cloud certification prep. |
+| **O'Reilly Learning** | ~$200M–$250M estimated annual revenue (Private) | $49/month (or $499/year) | 10-day free trial; full unlimited access to the catalog of books, video courses, and early-release titles; no credit card required upfront. | Technical reference library, digital books, video courses, live events, and interactive coding sandboxes. |
+| **Skillsoft** | ~$52M–$55M market cap (SKIL) / ~$450M–$510M TTM revenue | $25/month (or $200–$240/user/year for Teams) | 30-day free trial for Percipio Teams platform; 45-day trial for individual learner accounts; unrestricted access to selected library tracks. | Enterprise learning platform with compliance, tech & dev, leadership training, and corporate skill tracking. |
+| **Frontend Masters** | ~$6M–$8M estimated annual revenue (~100 employees, Bootstrapped) | $39/month (or $390/year) | Free forever account limited to ~5 foundational introductory web courses; verified students receive 6 months free via GitHub Student Developer Pack. | Advanced frontend development courses from industry leaders focusing on JavaScript, React, Node.js, and modern web architectures. |
 
 ## Open-Source GitHub Projects
 
