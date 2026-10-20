@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="100%" height="360" style="background:#0b0f19;border-radius:12px;overflow:hidden;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;">
+  <defs>
+    <!-- Gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e1a" />
+      <stop offset="50%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#070a13" />
+    </linearGradient>
+
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+
+    <linearGradient id="glowGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Dynamic Flow Animations -->
+    <style>
+      .orbit-path { stroke: #1e293b; stroke-width: 1.5; stroke-dasharray: 4 6; fill: none; }
+      .grid-line { stroke: #1e293b; stroke-width: 1; opacity: 0.25; }
+      
+      @keyframes floatSlow {
+        0%, 100% { transform: translateY(0px) rotate(0deg); }
+        50% { transform: translateY(-12px) rotate(2deg); }
+      }
+      @keyframes pulseGlow {
+        0%, 100% { opacity: 0.3; transform: scale(1); }
+        50% { opacity: 0.6; transform: scale(1.08); }
+      }
+      @keyframes slidePill1 {
+        0% { transform: translateX(0px); opacity: 0.8; }
+        50% { transform: translateX(25px); opacity: 0.5; }
+        100% { transform: translateX(0px); opacity: 0.8; }
+      }
+      @keyframes slidePill2 {
+        0% { transform: translateX(0px); opacity: 0.8; }
+        50% { transform: translateX(-25px); opacity: 0.5; }
+        100% { transform: translateX(0px); opacity: 0.8; }
+      }
+      @keyframes dashMove {
+        to { stroke-dashoffset: -100; }
+      }
+
+      .floating-bg { animation: floatSlow 8s ease-in-out infinite; transform-origin: center; }
+      .pulsing-glow { animation: pulseGlow 6s ease-in-out infinite; transform-origin: center; }
+      .pill-move-1 { animation: slidePill1 7s ease-in-out infinite; }
+      .pill-move-2 { animation: slidePill2 9s ease-in-out infinite; }
+      .stream-line { stroke-dasharray: 8 12; animation: dashMove 5s linear infinite; }
+    </style>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="1200" height="360" fill="url(#bgGrad)" />
+
+  <!-- Animated Background Network Grid -->
+  <g class="grid-layer">
+    <line x1="0" y1="60" x2="1200" y2="60" class="grid-line" />
+    <line x1="0" y1="120" x2="1200" y2="120" class="grid-line" />
+    <line x1="0" y1="180" x2="1200" y2="180" class="grid-line" />
+    <line x1="0" y1="240" x2="1200" y2="240" class="grid-line" />
+    <line x1="0" y1="300" x2="1200" y2="300" class="grid-line" />
+    <line x1="150" y1="0" x2="150" y2="360" class="grid-line" />
+    <line x1="300" y1="0" x2="300" y2="360" class="grid-line" />
+    <line x1="450" y1="0" x2="450" y2="360" class="grid-line" />
+    <line x1="600" y1="0" x2="600" y2="360" class="grid-line" />
+    <line x1="750" y1="0" x2="750" y2="360" class="grid-line" />
+    <line x1="900" y1="0" x2="900" y2="360" class="grid-line" />
+    <line x1="1050" y1="0" x2="1050" y2="360" class="grid-line" />
+  </g>
+
+  <!-- Dynamic Glowing Orbs Behind Content -->
+  <circle cx="200" cy="90" r="130" fill="url(#glowGrad)" class="pulsing-glow" filter="blur(30px)" />
+  <circle cx="1020" cy="270" r="140" fill="url(#glowGrad)" class="pulsing-glow" filter="blur(35px)" />
+
+  <!-- Dynamic Animated Tech Circuit / Stream Lines -->
+  <path d="M 50 40 Q 300 20 600 50 T 1150 40" fill="none" stroke="#38bdf8" stroke-width="1.5" class="stream-line" opacity="0.4" />
+  <path d="M 50 320 Q 400 340 700 310 T 1150 320" fill="none" stroke="#818cf8" stroke-width="1.5" class="stream-line" opacity="0.35" />
+
+  <!-- Animated Floating Tech Badges / Pills in Background -->
+  <g class="pill-move-1" opacity="0.85">
+    <rect x="920" y="70" width="180" height="34" rx="17" fill="#1e293b" stroke="#38bdf8" stroke-width="1.2" opacity="0.8" />
+    <circle cx="937" cy="87" r="5" fill="#38bdf8" />
+    <text x="952" y="93" fill="#cbd5e1" font-size="12" font-weight="600" letter-spacing="0.5">Hands-On Labs</text>
+  </g>
+
+  <g class="pill-move-2" opacity="0.85">
+    <rect x="860" y="250" width="230" height="34" rx="17" fill="#1e293b" stroke="#818cf8" stroke-width="1.2" opacity="0.8" />
+    <circle cx="877" cy="267" r="5" fill="#818cf8" />
+    <text x="892" y="273" fill="#cbd5e1" font-size="12" font-weight="600" letter-spacing="0.5">Agent-Native Skills</text>
+  </g>
+
+  <g class="pill-move-1" opacity="0.85">
+    <rect x="90" y="260" width="210" height="34" rx="17" fill="#1e293b" stroke="#c084fc" stroke-width="1.2" opacity="0.8" />
+    <circle cx="107" cy="277" r="5" fill="#c084fc" />
+    <text x="122" y="283" fill="#cbd5e1" font-size="12" font-weight="600" letter-spacing="0.5">Structured Curricula</text>
+  </g>
+
+  <!-- Foreground Title and Subtitle Header Container (Always in foreground, crystal clear) -->
+  <g transform="translate(600, 140)">
+    <!-- Tag Pill -->
+    <rect x="-160" y="-85" width="320" height="28" rx="14" fill="#1e293b" stroke="#475569" stroke-width="1" />
+    <text x="0" y="-67" text-anchor="middle" fill="#38bdf8" font-size="11" font-weight="700" letter-spacing="2">CURATED ECOSYSTEM DIRECTORY</text>
+
+    <!-- Main Title -->
+    <text x="0" y="-12" text-anchor="middle" fill="#ffffff" font-size="38" font-weight="800" letter-spacing="-0.5">
+      Awesome Developer Education &amp; Skills
+    </text>
+
+    <!-- Highlight Bar -->
+    <rect x="-240" y="4" width="480" height="3" rx="1.5" fill="url(#accentGrad)" />
+
+    <!-- Subtitle -->
+    <text x="0" y="36" text-anchor="middle" fill="#94a3b8" font-size="16" font-weight="500">
+      Master Modern Software Engineering, Structured Learning Paths &amp; Agent-Native Skills
+    </text>
+
+    <!-- Secondary Meta Pills -->
+    <g transform="translate(0, 75)">
+      <text x="-160" y="0" text-anchor="middle" fill="#64748b" font-size="13" font-weight="600">⚡ Top SaaS Platforms</text>
+      <circle cx="-75" cy="-4" r="2.5" fill="#475569" />
+      <text x="0" y="0" text-anchor="middle" fill="#64748b" font-size="13" font-weight="600">⭐ Open-Source Curricula</text>
+      <circle cx="75" cy="-4" r="2.5" fill="#475569" />
+      <text x="160" y="0" text-anchor="middle" fill="#64748b" font-size="13" font-weight="600">🤖 AI Coding Workflows</text>
+    </g>
+  </g>
+</svg>
