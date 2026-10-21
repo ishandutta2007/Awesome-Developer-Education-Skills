@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Developer-Education-Skills/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Developer-Education-Skills?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Developer-Education-Skills/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Developer-Education-Skills?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Developer-Education-Skills/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Developer-Education-Skills?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Developer-Education-Skills/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -60,84 +60,84 @@ The global developer and programming education market is estimated at approximat
 
 ## 🌐 Open-Source GitHub Projects
 
-*Ranked strictly by GitHub Star count in descending order.*
+*Ranked strictly by GitHub Stars_Count in descending order.*
 
-1. ### [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) [![GitHub stars](https://img.shields.io/github/stars/freeCodeCamp/freeCodeCamp?style=social&color=white)](https://github.com/freeCodeCamp/freeCodeCamp/stargazers)
+1. ### [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) [![GitHub_Stars](https://img.shields.io/github/stars/freeCodeCamp/freeCodeCamp?style=social&color=white)](https://github.com/freeCodeCamp/freeCodeCamp/stargazers)
    - **Focus**: Full-stack web development, algorithms, data structures, and hands-on coding certifications.
    - **Highlights**: The most accessible free curriculum on the web. Practice directly inside an interactive in-browser execution sandbox without needing local terminal setup. Rigorous JavaScript algorithm problem sets and full-stack project challenges.
    - **Best For**: Absolute beginners through intermediate learners seeking immediate coding validation and tangible certifications.
 
-2. ### [free-programming-books](https://github.com/EbookFoundation/free-programming-books) [![GitHub stars](https://img.shields.io/github/stars/EbookFoundation/free-programming-books?style=social&color=white)](https://github.com/EbookFoundation/free-programming-books/stargazers)
+2. ### [free-programming-books](https://github.com/EbookFoundation/free-programming-books) [![GitHub_Stars](https://img.shields.io/github/stars/EbookFoundation/free-programming-books?style=social&color=white)](https://github.com/EbookFoundation/free-programming-books/stargazers)
    - **Focus**: Curated directory of free books, cheat sheets, podcasts, and courses across virtually every programming language.
    - **Highlights**: Maintained by the Free Ebook Foundation; multi-language directory covering low-level systems, web stacks, machine learning, and DevOps.
    - **Best For**: Self-directed developers who want comprehensive, cost-free technical reading across languages and paradigms.
 
-3. ### [system-design-primer](https://github.com/donnemartin/system-design-primer) [![GitHub stars](https://img.shields.io/github/stars/donnemartin/system-design-primer?style=social&color=white)](https://github.com/donnemartin/system-design-primer/stargazers)
+3. ### [system-design-primer](https://github.com/donnemartin/system-design-primer) [![GitHub_Stars](https://img.shields.io/github/stars/donnemartin/system-design-primer?style=social&color=white)](https://github.com/donnemartin/system-design-primer/stargazers)
    - **Focus**: Large-scale distributed systems, system design interviews, scalability, and architectural fundamentals.
    - **Highlights**: Visual roadmaps, diagrams, code examples, and flashcards teaching how to design systems capable of scaling to millions of concurrent users.
    - **Best For**: Mid-level to senior developers preparing for technical system design interviews and distributed systems engineering.
 
-4. ### [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) [![GitHub stars](https://img.shields.io/github/stars/kamranahmedse/developer-roadmap?style=social&color=white)](https://github.com/kamranahmedse/developer-roadmap/stargazers)
+4. ### [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) [![GitHub_Stars](https://img.shields.io/github/stars/kamranahmedse/developer-roadmap?style=social&color=white)](https://github.com/kamranahmedse/developer-roadmap/stargazers)
    - **Focus**: Interactive visual roadmaps, study guides, and milestone tracking (roadmap.sh).
    - **Highlights**: Community-standard visual guides covering Frontend, Backend, DevOps, AI/Data Engineering, and Cybersecurity.
    - **Best For**: Developers seeking a clear roadmap and structured path forward before plunging into deep technical documentation.
 
-5. ### [coding-interview-university](https://github.com/jwasham/coding-interview-university) [![GitHub stars](https://img.shields.io/github/stars/jwasham/coding-interview-university?style=social&color=white)](https://github.com/jwasham/coding-interview-university/stargazers)
+5. ### [coding-interview-university](https://github.com/jwasham/coding-interview-university) [![GitHub_Stars](https://img.shields.io/github/stars/jwasham/coding-interview-university?style=social&color=white)](https://github.com/jwasham/coding-interview-university/stargazers)
    - **Focus**: Multi-month computer science study plan to transition to software engineer roles at top tech companies.
    - **Highlights**: Deep coverage of data structures, Big-O algorithm analysis, bitwise operations, graph search, and systems concepts.
    - **Best For**: Non-CS graduates and self-taught software engineers aiming for FAANG/Big Tech engineering roles.
 
-6. ### [mattpocock/skills](https://github.com/mattpocock/skills) [![GitHub stars](https://img.shields.io/github/stars/mattpocock/skills?style=social&color=white)](https://github.com/mattpocock/skills/stargazers)
+6. ### [mattpocock/skills](https://github.com/mattpocock/skills) [![GitHub_Stars](https://img.shields.io/github/stars/mattpocock/skills?style=social&color=white)](https://github.com/mattpocock/skills/stargazers)
    - **Focus**: Agent-native skill libraries, TDD workflows, and engineering alignment tools for AI coding assistants.
    - **Highlights**: Created by TypeScript educator Matt Pocock. Enforces real engineering rigor on LLM coding agents like Claude Code and Codex using commands like `/grill-me`, `/tdd`, and domain glossaries.
    - **Best For**: Modern software engineers pairing with agentic AI assistants who want disciplined test-driven development rather than vibe coding.
 
-7. ### [project-based-learning](https://github.com/practical-tutorials/project-based-learning) [![GitHub stars](https://img.shields.io/github/stars/practical-tutorials/project-based-learning?style=social&color=white)](https://github.com/practical-tutorials/project-based-learning/stargazers)
+7. ### [project-based-learning](https://github.com/practical-tutorials/project-based-learning) [![GitHub_Stars](https://img.shields.io/github/stars/practical-tutorials/project-based-learning?style=social&color=white)](https://github.com/practical-tutorials/project-based-learning/stargazers)
    - **Focus**: Programming tutorials where learners build applications from scratch across multiple languages.
    - **Highlights**: Organized by programming language (Python, C++, Rust, JavaScript, Go) with practical build-it-yourself guides for web servers, 3D engines, compilers, and games.
    - **Best For**: Developers who learn by building real projects rather than following passive video walkthroughs.
 
-8. ### [computer-science (OSSU)](https://github.com/ossu/computer-science) [![GitHub stars](https://img.shields.io/github/stars/ossu/computer-science?style=social&color=white)](https://github.com/ossu/computer-science/stargazers)
+8. ### [computer-science (OSSU)](https://github.com/ossu/computer-science) [![GitHub_Stars](https://img.shields.io/github/stars/ossu/computer-science?style=social&color=white)](https://github.com/ossu/computer-science/stargazers)
    - **Focus**: Complete, rigorous open-source curriculum for a self-taught undergraduate degree in Computer Science.
    - **Highlights**: Curated using MOOC courses from MIT, Harvard, Princeton, and UC Berkeley. Covers discrete math, algorithms, operating systems, and computer architecture.
    - **Best For**: Self-directed learners demanding rigorous computer science foundations equivalent to a four-year university program.
 
-9. ### [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) [![GitHub stars](https://img.shields.io/github/stars/trekhleb/javascript-algorithms?style=social&color=white)](https://github.com/trekhleb/javascript-algorithms/stargazers)
+9. ### [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) [![GitHub_Stars](https://img.shields.io/github/stars/trekhleb/javascript-algorithms?style=social&color=white)](https://github.com/trekhleb/javascript-algorithms/stargazers)
    - **Focus**: Algorithms and data structures implemented in modern JavaScript with detailed explanations and README specs.
    - **Highlights**: Includes Big-O complexity labels, unit tests, and real-world implementation patterns for searching, sorting, graphs, and dynamic programming.
    - **Best For**: JavaScript and TypeScript developers wanting deep, algorithmic mastery in their native language ecosystem.
 
-10. ### [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) [![GitHub stars](https://img.shields.io/github/stars/goldbergyoni/nodebestpractices?style=social&color=white)](https://github.com/goldbergyoni/nodebestpractices/stargazers)
+10. ### [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) [![GitHub_Stars](https://img.shields.io/github/stars/goldbergyoni/nodebestpractices?style=social&color=white)](https://github.com/goldbergyoni/nodebestpractices/stargazers)
     - **Focus**: Production engineering best practices, security, error handling, and code architecture for Node.js.
     - **Highlights**: Over 80 battle-tested best practices with code snippets, anti-patterns, and Docker/cloud deployment guidelines.
     - **Best For**: Backend engineers and full-stack developers taking Node.js applications into enterprise production.
 
-11. ### [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) [![GitHub stars](https://img.shields.io/github/stars/mtdvio/every-programmer-should-know?style=social&color=white)](https://github.com/mtdvio/every-programmer-should-know/stargazers)
+11. ### [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) [![GitHub_Stars](https://img.shields.io/github/stars/mtdvio/every-programmer-should-know?style=social&color=white)](https://github.com/mtdvio/every-programmer-should-know/stargazers)
     - **Focus**: Collection of technical resources, mental models, and principles every software developer should understand.
     - **Highlights**: Covers floating-point arithmetic, Unicode encoding, timezones, security, memory hierarchy, and distributed consensus.
     - **Best For**: Engineers striving for technical excellence and deep understanding beyond basic syntax.
 
-12. ### [java-design-patterns](https://github.com/iluwatar/java-design-patterns) [![GitHub stars](https://img.shields.io/github/stars/iluwatar/java-design-patterns?style=social&color=white)](https://github.com/iluwatar/java-design-patterns/stargazers)
+12. ### [java-design-patterns](https://github.com/iluwatar/java-design-patterns) [![GitHub_Stars](https://img.shields.io/github/stars/iluwatar/java-design-patterns?style=social&color=white)](https://github.com/iluwatar/java-design-patterns/stargazers)
     - **Focus**: Design patterns implemented in Java with comprehensive architectural rationale.
     - **Highlights**: Covers Gang of Four (GoF) design patterns, enterprise integration patterns, architectural styles, and idiomatic modern implementations.
     - **Best For**: Object-oriented developers and enterprise backend engineers.
 
-13. ### [33-js-concepts](https://github.com/leonardomso/33-js-concepts) [![GitHub stars](https://img.shields.io/github/stars/leonardomso/33-js-concepts?style=social&color=white)](https://github.com/leonardomso/33-js-concepts/stargazers)
+13. ### [33-js-concepts](https://github.com/leonardomso/33-js-concepts) [![GitHub_Stars](https://img.shields.io/github/stars/leonardomso/33-js-concepts?style=social&color=white)](https://github.com/leonardomso/33-js-concepts/stargazers)
     - **Focus**: 33 JavaScript concepts every developer should master.
     - **Highlights**: Detailed exploration of call stack, primitive types, closures, event loop, promises, prototypes, and bitwise operators.
     - **Best For**: Frontend and full-stack JavaScript developers looking to master advanced language internals.
 
-14. ### [professional-programming](https://github.com/charlax/professional-programming) [![GitHub stars](https://img.shields.io/github/stars/charlax/professional-programming?style=social&color=white)](https://github.com/charlax/professional-programming/stargazers)
+14. ### [professional-programming](https://github.com/charlax/professional-programming) [![GitHub_Stars](https://img.shields.io/github/stars/charlax/professional-programming?style=social&color=white)](https://github.com/charlax/professional-programming/stargazers)
     - **Focus**: Curated collection of mental models, resources, and engineering habits for professional programmers.
     - **Highlights**: Emphasizes code quality, observability, team collaboration, technical writing, and release management.
     - **Best For**: Software engineers transitioning into mid-level, senior, or tech lead positions.
 
-15. ### [The Odin Project Curriculum](https://github.com/TheOdinProject/curriculum) [![GitHub stars](https://img.shields.io/github/stars/TheOdinProject/curriculum?style=social&color=white)](https://github.com/TheOdinProject/curriculum/stargazers)
+15. ### [The Odin Project Curriculum](https://github.com/TheOdinProject/curriculum) [![GitHub_Stars](https://img.shields.io/github/stars/TheOdinProject/curriculum?style=social&color=white)](https://github.com/TheOdinProject/curriculum/stargazers)
     - **Focus**: Hands-on, unguided full-stack web development curriculum (Full-Stack JavaScript & Ruby on Rails).
     - **Highlights**: Emphasizes installing real developer tools (Git, terminal, VS Code), reading documentation, and building portfolio apps from specifications without handheld tutorials.
     - **Best For**: Self-motivated learners and career switchers prepared to build production-grade web applications from scratch.
 
-16. ### [Exercism](https://github.com/exercism/exercism) [![GitHub stars](https://img.shields.io/github/stars/exercism/exercism?style=social&color=white)](https://github.com/exercism/exercism/stargazers)
+16. ### [Exercism](https://github.com/exercism/exercism) [![GitHub_Stars](https://img.shields.io/github/stars/exercism/exercism?style=social&color=white)](https://github.com/exercism/exercism/stargazers)
     - **Focus**: Code practice and human mentorship in 70+ programming languages.
     - **Highlights**: Download exercises locally via CLI, pass unit test suites, and receive voluntary feedback from experienced software mentors.
     - **Best For**: Developers learning a new language who want code review and constructive human mentorship.
